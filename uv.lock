@@ -988,7 +988,7 @@ wheels = [
 
 [[package]]
 name = "mcp-atlassian-extended"
-version = "0.16.1"
+version = "0.16.1.post1"
 source = { editable = "." }
 dependencies = [
     { name = "click" },
